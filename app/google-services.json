@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "253883226879",
+    "firebase_url": "https://image-fe588.firebaseio.com",
+    "project_id": "image-fe588",
+    "storage_bucket": "image-fe588.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253883226879:android:c0908efe2b70d1d5",
+        "android_client_info": {
+          "package_name": "calculator.osama.hospital.alsalam.image_app_learn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "253883226879-re76ddvv9ccanfarrcukc2cdp810n1ot.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "calculator.osama.hospital.alsalam.image_app_learn",
+            "certificate_hash": "273a2d210543f4d1f89d4e615018fb329c27676d"
+          }
+        },
+        {
+          "client_id": "253883226879-18nv4gbcs8u7v8fgrv1phaim26nm0g1s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG1R46PmbN4BF0AsMarVZ01X7iF24rioE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "253883226879-18nv4gbcs8u7v8fgrv1phaim26nm0g1s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
